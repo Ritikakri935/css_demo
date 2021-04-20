@@ -1,0 +1,26 @@
+body{
+	background-image: url("https://img.freepik.com/free-vector/abstract-polygonal-pattern-luxury-golden-line-with-dark-blue_41981-1222.jpg?size=626&ext=jpg");
+	background-size: cover;
+	
+}
+h1 {
+	color: cornflowerblue;
+	font-size: 45px;
+	font-family:monospace;
+
+}
+h2{
+	color: lightsteelblue;
+	font-size: 30px;
+	color:;
+}
+h3{
+	color: lightsteelblue;
+	font-family:sans-serif;
+}
+h4{
+	color: lightsteelblue;
+}
+p{
+	color: lightsteelblue;
+}
